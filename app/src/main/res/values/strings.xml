@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter Test</string>
+
+    <string name="rate">1 %1$s = %2$f %3$s</string>
+</resources>
